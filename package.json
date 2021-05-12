@@ -11,7 +11,7 @@
     "querystring"
   ],
   "dependencies": {
-    "nodemailer": "^6.4.3",
+    "nodemailer": "^6.4.16",
     "querystring": "^0.2.0",
     "jsonwebtoken": "^8.5.1"
   }
